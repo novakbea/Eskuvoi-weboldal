@@ -1,2 +1,0 @@
-# Eskuvoi-weboldal
-Eskuvoi weboldal
